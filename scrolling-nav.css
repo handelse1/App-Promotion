@@ -1,0 +1,90 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+
+nav {
+  background-color: #D5500A;
+}
+
+header {
+  padding: 200px 0 100px;
+  background-image: url("../JMUbackground.jpeg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+}
+.lead{
+  font-size: 1.4em;
+}
+
+h1{
+  padding-top: 35px;
+  font-size: 3.3em;
+  font-weight: bold;
+}
+.lead
+{
+  font-size: 1.3em;
+}
+
+h2{
+  font-style:italic;
+  font-size:2.3em;
+  color: #DB5809;
+}
+
+h3{
+  width: 190px;
+  text-align: center;
+  margin: auto;
+  color: #FFF;
+}
+
+h4{
+  font-style: italic;
+  font-size:1.9em;
+  color: #DB5809;
+}
+
+section{
+  padding: 65px 20px;
+}
+
+#section5{
+text-align: center;
+margin: auto;
+padding-bottom: 4px;
+}
+
+footer {
+  padding: 10px 20px;
+  text-align: center;
+  background-color: #D5500A;
+  color:#FFF;
+}
+p{
+  font-size: 1.1em;
+}
+
+.orange-bg {
+  background-color: #FFF4EB ;
+}
+.app{
+  font-size: 1.4em;
+  color: #D5500A ;
+  padding-top: 2px;
+}
+.contact{
+  font-size: 1.3em;
+}
+
